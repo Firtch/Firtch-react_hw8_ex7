@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Radar from "./Radar.js"
+import Radar from "./Radar.js";
+import React from 'react';
 
 function App() {
   const max = 60;
